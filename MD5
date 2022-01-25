@@ -1,0 +1,9 @@
+388e53f895fd2e80f30537cd235e5b5f *DESCRIPTION
+12b79ff173d7466a54d91ba76a52a450 *LICENSE
+f3a022161a32b910f8d1512e099f4c73 *NAMESPACE
+91e16fa7773edf6a78effa3639d1d5f1 *R/globals.R
+5231e3b21d6f6ac96f92282ba56fbe52 *R/lapply.R
+3e0d64affa7c11c6869004f9a3819775 *R/mappp.R
+2635f394e29c57a8a48f715d84ef65d3 *man/mappp.Rd
+d0cb6ec4bfde0980f5280ff3327dcb58 *tests/testthat.R
+8ed7acc166ade6e55e2dea6691c782ce *tests/testthat/test-mappp.R
